@@ -12,8 +12,8 @@ export const L = {
   leftHand: { x: 8, y: 6 },
   rightHandRight: { right: 8, y: 6 },
 
-  portraitLeft: { x: 405, y: 8, w: 105, h: 148 },
-  portraitRight: { x: 535, y: 8, w: 105, h: 148 },
+  portraitLeft: { x: 405, y: 8, w: 108, h: 124 },
+  portraitRight: { x: 535, y: 8, w: 108, h: 124 },
 
   scoreTable: { x: 736, y: 162, w: 240 },
   roundTable: { x: 20, y: 257 },
